@@ -1,0 +1,69 @@
+.offer {
+  margin-top: 130px;
+  margin-bottom: 130px;
+  background: #f5f5f5;
+}
+.offer--block {
+  display: flex;
+}
+.offer--left-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 50%;
+}
+.offer--title {
+  font-weight: 700;
+  font-size: 80;
+}
+.offer--text {
+  margin-top: 30px;
+  width: 460px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.offer-line-container {
+  align-self: flex-start;
+  margin-top: 30px;
+  background: no-repeat center/100% url(../img/curve-line.svg);
+  width: 479px;
+  height: 40px;
+}
+.offer--link-block {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.offer--link-svg {
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.offe--lin--fill {
+  border-radius: 40px;
+  background-color: #54bd95;
+  padding: 20px 30px;
+  color: #ffffff;
+}
+.offe--link {
+  margin-left: 14px;
+}
+.offer--right-block {
+  width: 50%;
+}
+
+.offer--collabs {
+  margin-top: 130px;
+  text-align: center;
+}
+.offe--collabs-title {
+  font-weight: 700;
+  font-size: 40px;
+}
+.offer--collabs-logos {
+  margin-top: 60px;
+}

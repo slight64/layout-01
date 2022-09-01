@@ -1,0 +1,87 @@
+.support {
+  background: #f9f8fe;
+  padding: 60px 0;
+}
+
+.support--box {
+  display: flex;
+}
+.suppor--left-block {
+  width: 55%;
+}
+.suppor--title {
+  color: #191a15;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 60px;
+}
+.suppor--text {
+  margin-top: 30px;
+  color: #a6a6a6;
+  line-height: 30px;
+}
+.suppor--raiting-block {
+  margin-top: 70px;
+}
+.suppor--raiting-wrapper {
+  display: flex;
+}
+.suppor--raiting-item {
+  margin-right: 80px;
+}
+.suppor--stars {
+  display: flex;
+}
+.suppor--star {
+  margin-right: 3px;
+  list-style: none;
+}
+.suppor--raiting {
+  margin-top: 18px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.suppor--raiting-number {
+  font-weight: 500;
+}
+.suppor--client {
+  margin-top: 18px;
+  color: #a6a6a6;
+  font-weight: 700;
+  font-size: 18px;
+}
+.suppor--right-block {
+  width: 45%;
+}
+.suppor--services {
+}
+.suppor--services-item {
+  display: flex;
+  margin-bottom: 30px;
+}
+.suppor--item-header {
+  margin-left: 20px;
+}
+.suppor--icon {
+  flex-grow: 0;
+  align-self: flex-start;
+  margin: 0;
+  box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  padding: 15px;
+  font-size: 0;
+}
+
+.suppor--service-title {
+  color: #191a15;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+}
+.servic--description {
+  margin-top: 10px;
+  max-width: 420px;
+  color: #a6a6a6;
+  font-size: 18px;
+  line-height: 30px;
+}

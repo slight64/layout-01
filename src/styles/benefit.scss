@@ -1,0 +1,41 @@
+.benefit {
+  padding-top: 130px;
+}
+.wrapper {
+}
+.benefi--left-block {
+  width: 50%;
+}
+.benefi--title {
+  width: 429px;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+}
+.benefi--features {
+  margin-top: 50px;
+}
+.benefi--features-item {
+  margin-top: 30px;
+  color: #191a15;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  list-style: none;
+  &:first-child {
+    margin-top: 0;
+  }
+  &::before {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20px;
+    content: url(../img/marker.svg);
+  }
+}
+.benefi--right-block {
+  width: 50%;
+}
+.benefit--box {
+  display: flex;
+  justify-content: space-between;
+}
